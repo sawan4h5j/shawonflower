@@ -1,0 +1,344 @@
+.son1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ padding: 30px;
+ border:  0 solid;
+ width: 1000px;
+ height: 300px;
+ background-color: rgb(255, 223, 229);
+ 
+ 
+}
+
+.son2{
+  margin-left: 5rem;
+  margin-top: 1.9rem;
+  
+
+}
+.son3{
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 5rem;
+  
+}
+ a{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-decoration-line: none;
+  color: rgb(255, 255, 255);
+  background-color:#E55473 ;
+  margin-left: 5rem;
+  padding: 8px;
+  font-size: smaller;
+  font-size: small;
+  padding-left: 15px;
+  padding-right: 15px;
+  
+ }
+
+.son5{
+  margin-right: 3rem;
+}
+
+.fol{
+  position: absolute;
+  width: 285px;
+
+top: 8px;
+left: 650px;
+
+}
+
+.son5{
+text-align:center ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 8rem;
+position: relative;
+
+}
+
+.son6{
+  text-align: center;
+  margin-top: 1rem;
+  
+}
+
+.row1 {
+width: 200px;
+margin-left: 24.5rem;
+position: absolute;
+
+
+}
+.row2{
+  text-align: center;
+  width: 200px;
+  margin-left: 11rem;
+ position: absolute;
+ 
+ }
+.row3{
+  width: 200px;
+  margin-left: 38rem;
+  margin-bottom: 15rem;
+  position: absolute;
+ 
+  }
+
+  .sawan1{
+  margin-top: 16rem;
+  margin-left: 15rem;
+  position: absolute;
+ 
+  }
+  .sawan2{
+    margin-top: 16rem;
+    margin-left: 28.6rem;
+    position: absolute;
+
+  }
+  .sawan3{
+    margin-top: 16rem;
+    margin-left: 41.2rem;
+    position: absolute;
+
+}
+
+.box1{
+  width: 150px;
+  height: 230px;
+  margin:0 auto;
+  margin-left:13rem ;
+  margin-bottom: 5rem;
+  position: relative;
+  position: absolute;
+ 
+}
+.box2{
+  width: 180px;
+  height:230px ;
+  margin-left: 26rem ;
+  margin-bottom: 2rem;
+  position: absolute;
+}
+
+.box3{
+  width: 180px;
+  height:230px ;
+  margin-left: 39rem ;
+  margin-bottom: 7rem;
+ 
+}
+
+.boss1{
+  padding: 30px;
+ border:  0 solid;
+ width: 577px;
+ height: 130px;
+ background-color: rgb(228, 228, 228);
+ margin-left: 11rem;
+ position: absolute;
+ position: relative;
+}
+.boss2{
+width: 3rem ;
+margin-left: 3rem;
+margin-top: 2rem;
+position: absolute;
+
+
+}
+
+.boss3{
+width: 3rem;
+margin-left:17.5rem ;
+margin-top:2rem ;
+position: absolute;
+
+
+}
+
+.boss4{
+  width:3rem ;
+  margin-left: 30rem;
+  margin-top: 2rem;
+  position: absolute;
+  
+  
+
+}
+.text1{
+  margin-top: 7rem;
+  position: absolute;
+ 
+}
+
+.text2{
+  margin-left: 15rem;
+  margin-top:7rem ;
+  position: absolute;
+
+}
+.text3{
+  margin-left: 28.9rem;
+  margin-top: 7rem;
+  position: absolute;
+}
+
+.sos{
+  padding: 30px;
+  border: 2px solid;
+  border: none;
+  width: 1000px;
+  height: 250px;
+  margin-top: 4rem;
+  background-color: rgb(255, 223, 229);
+  position: absolute;
+
+}
+
+.fol1{
+  width: 150px;
+  margin-left: 37rem;
+  margin-top: 2rem;
+  position: absolute;
+  
+}
+.type1{
+  
+  margin-left: 9rem;
+  margin-top: 4.4rem;
+  position: absolute;
+}
+.type2{
+  text-align: center;
+  margin-left: 6rem;
+  margin-top: 6.8rem;
+ 
+position: absolute;
+}
+
+/* #######sing up */
+
+.ball{
+  
+ margin: auto;
+ margin-left: 12rem;
+ margin-top: 12rem;
+ position: absolute;
+ 
+}
+
+span{
+  color: #E55473;
+  position: absolute;
+}
+
+.man1{
+ text-align: center;
+ margin-top: 27rem;
+}
+
+.man2{
+  text-align: center;
+ 
+}
+
+.table1{
+  width: 170px;
+}
+
+.table2{
+  width: 170px; 
+}
+
+.table3{
+  width: 170px;
+}
+.table4{
+  width: 170px;
+}
+
+.table {
+  text-align: center;
+  margin-top: 3rem;
+}
+header{
+  width: 700px;
+  height: 250px;
+  margin-left: 7.8rem;
+  margin-top: 6rem;
+  background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0 ) ) , url('../img/Rectangle 9.jpg') ;
+  position: absolute;
+  
+
+}
+
+.logo{
+  text-align: center;
+  margin-top: 4rem;
+  margin-left: 18rem;
+  
+  position: absolute;
+  
+}
+.text-light{
+  text-align: center;
+  margin-top: 6.5rem;
+  margin-left: 18rem;
+  
+  position: absolute;
+   
+}
+
+.red1{
+  
+  margin-left: 35.5rem;
+  border-radius: 8px;
+  margin-top: 9.8rem;
+ 
+  
+  position: absolute;
+}
+
+.sad1{
+  width: 20rem;
+  height: 1.7rem;
+  margin-left: 14rem;
+  border: none;
+  margin-top: 10rem;
+  box-shadow: 0 0 6px  rgba(0,0,0,0.2);
+  border-radius: 5px;
+  font-size: 18px;
+  color: #333;
+ padding-left: 1rem;
+  
+}
+
+/* |||||||||FOOTER SRYLING|||||||||| */
+.footer{
+  background-color: #111010;
+  padding: 3em;
+  text-align: center;
+  margin-top: 30rem;
+  width: 900px;
+  height: 100px;
+  position: absolute;
+  position: relative;
+}
+
+.mad1{
+  color: white;
+  
+  
+}
+.flex{
+  margin-right: 50rem;
+  margin-top: .3rem;
+  margin-left:3.3rem;
+}
+.flex1{
+  color: aliceblue;
+  margin-bottom: 5rem;
+  margin-left:18rem;
+  position: absolute;
+ 
+}
